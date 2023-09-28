@@ -280,3 +280,4 @@ if let beginsWithThe =
 // Prints "John's building identifier begins with "The"."
 //: * callout(Note):
 //:     → In the example above, you place the optional chaining question mark after the parentheses, because the optional value you are chaining on is the buildingIdentifier() method’s return value, and not the buildingIdentifier() method itself.
+
